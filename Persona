@@ -1,0 +1,31 @@
+// Atributos
+
+private String escuela;
+
+private String curso;
+
+private int tetramestre;
+
+private int matricula;
+
+/* Constructor */
+
+public Estudiante( String nombre, String sexo, String
+
+fechaNacimiento,
+
+String escuela, String curso, int tetramestre,
+
+int matricula
+
+X{
+
+super(nombre, sexo, fecha Nacimiento);
+
+this.escuela = escuela; this.curso curso;
+
+this.tetramestre = tetramestre;
+
+this.matricula = matricula;
+
+}
