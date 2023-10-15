@@ -1,0 +1,17 @@
+package com.poo.model;
+
+public class Estudiante extends Persona {
+    //Atributos
+ private string escuela;
+private string curso;
+private int tetramestre;
+private int matricula;
+
+
+private estudiante(string escuela, string curso, int tetramestre, int matricula)
+    this.escuela = escuela;
+    this.curso = curso;
+    this.tetramestre = tetramestre;
+    this.matricula = matricula; 
+
+}
