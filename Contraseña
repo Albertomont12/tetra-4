@@ -1,0 +1,14 @@
+Proceso sin_titulo
+	Definir usario,contraseña Como Caracter
+	Escribir "Dame un usuario"
+	Leer usuario
+	Escribir"Dame la contraseña"
+	Leer contraseña
+	
+	si usuario == "Kevin" y contraseña== "0907" Entonces
+		Escribir " Los datos son correctos"
+	SiNo
+		Escribir " Los datos son incorrectos"
+	FinSi
+	
+FinAlgoritmo
